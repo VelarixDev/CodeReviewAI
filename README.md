@@ -199,22 +199,29 @@ Make any change in your repository, commit, and git push.
 Within seconds, the FastAPI server will catch the webhook, download the modified files, analyze them via AI, and send a detailed Code Review report directly to your Telegram DMs!
 
 
-## 📸 How it works in action
+## 📸 How It Works in Action
 
-### 1. Bot Commands & Code Analysis
-Here you can see the bot in action: using /start, /help, indexing a repository, and asking a question about the code logic.
+### 1️⃣ Bot Commands & Code Analysis
+Here you can see the bot in action: using `/start`, `/help`, indexing a repository, and asking questions about code logic.
+
 <img width="1165" height="991" alt="Bot commands and analysis" src="https://github.com/user-attachments/assets/184d59a0-144a-4427-8abb-90a0cb972a8c" />
 
 ---
 
-### 2. Automatic Code Review FlStep 1: Modify your codede**
-Simply make changes to your codebase (e.g., introduce a bug or change logic).
-<img width="1858" height="951" alt="Screenshot 2026-04-19 204454" src="https://github.com/user-attachments/assets/838f6a2d-0144-431f-8f9f-595747679920" />
-Step 2: Commit & Push to GitHubub**
-The GitHub Webhook automatically detects the changes and triggers the analysis pipeline.
-<img width="1853" height="948" alt="Screenshot 2026-04-19 204537" src="https://github.com/user-attachments/assets/0000f03f-24a6-44cf-87c2-acba73eaf367" />
-Step 3: AI Code Review Reportrt**
-Within seconds, the bot sends a detailed review report directly to your Telegram.
-<img width="1171" height="981" alt="AI Review report in Telegram" src="https://github.com/user-attachments/assets/a8be1e21-9c5a-46da-bacc-0a7d7ede72fa" />
+### 2️⃣ Automatic Code Review Workflow
+The bot automatically analyzes your code changes and delivers feedback via Telegram. Here’s how it works:
 
----
+**Step 1: Modify Your Code**  
+Simply make changes to your codebase (e.g., introduce a bug or adjust logic).  
+
+<img width="1858" height="951" alt="Modify code" src="https://github.com/user-attachments/assets/838f6a2d-0144-431f-8f9f-595747679920" />
+
+**Step 2: Commit & Push to GitHub**  
+The GitHub Webhook automatically detects the changes and triggers the analysis pipeline.  
+
+<img width="1853" height="948" alt="Commit and push" src="https://github.com/user-attachments/assets/0000f03f-24a6-44cf-87c2-acba73eaf367" />
+
+**Step 3: AI Code Review Report**  
+Within seconds, the bot sends a detailed review report directly to your Telegram.  
+
+<img width="1171" height="981" alt="AI Review report in Telegram" src="https://github.com/user-attachments/assets/a8be1e21-9c5a-46da-bacc-0a7d7ede72fa" />
