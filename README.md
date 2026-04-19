@@ -1,11 +1,3 @@
-<img width="1165" height="991" alt="Screenshot 2026-04-19 204056" src="https://github.com/user-attachments/assets/184d59a0-144a-4427-8abb-90a0cb972a8c" />
-
-<img width="1858" height="951" alt="Screenshot 2026-04-19 204454" src="https://github.com/user-attachments/assets/838f6a2d-0144-431f-8f9f-595747679920" />
-
-<img width="1853" height="948" alt="Screenshot 2026-04-19 204537" src="https://github.com/user-attachments/assets/0000f03f-24a6-44cf-87c2-acba73eaf367" />
-
-<img width="1171" height="981" alt="Screenshot 2026-04-19 204858" src="https://github.com/user-attachments/assets/a8be1e21-9c5a-46da-bacc-0a7d7ede72fa" />
-
 # 🤖 Code Review AI Bot
 
 An AI-powered Telegram bot with a FastAPI web server that indexes GitHub repositories, analyzes code using neural networks, and answers questions about the codebase.
@@ -205,3 +197,24 @@ ngrok http 8000
 ### Step 3: Test the Automation!
 Make any change in your repository, commit, and git push. 
 Within seconds, the FastAPI server will catch the webhook, download the modified files, analyze them via AI, and send a detailed Code Review report directly to your Telegram DMs!
+
+
+## 📸 How it works in action
+
+### 1. Bot Commands & Code Analysis
+Here you can see the bot in action: using /start, /help, indexing a repository, and asking a question about the code logic.
+<img width="1165" height="991" alt="Bot commands and analysis" src="https://github.com/user-attachments/assets/184d59a0-144a-4427-8abb-90a0cb972a8c" />
+
+---
+
+### 2. Automatic Code Review FlStep 1: Modify your codede**
+Simply make changes to your codebase (e.g., introduce a bug or change logic).
+<img width="1858" height="951" alt="Screenshot 2026-04-19 204454" src="https://github.com/user-attachments/assets/838f6a2d-0144-431f-8f9f-595747679920" />
+Step 2: Commit & Push to GitHubub**
+The GitHub Webhook automatically detects the changes and triggers the analysis pipeline.
+<img width="1853" height="948" alt="Screenshot 2026-04-19 204537" src="https://github.com/user-attachments/assets/0000f03f-24a6-44cf-87c2-acba73eaf367" />
+Step 3: AI Code Review Reportrt**
+Within seconds, the bot sends a detailed review report directly to your Telegram.
+<img width="1171" height="981" alt="AI Review report in Telegram" src="https://github.com/user-attachments/assets/a8be1e21-9c5a-46da-bacc-0a7d7ede72fa" />
+
+---
