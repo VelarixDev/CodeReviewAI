@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+token.txt
+chroma_db/
+repo_*/
+temp_repo/
+*.db
+.env
+.idea/
+.vscode/
+ngrok.exe
