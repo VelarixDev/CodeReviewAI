@@ -1,3 +1,11 @@
+<img width="1165" height="991" alt="Screenshot 2026-04-19 204056" src="https://github.com/user-attachments/assets/184d59a0-144a-4427-8abb-90a0cb972a8c" />
+
+<img width="1858" height="951" alt="Screenshot 2026-04-19 204454" src="https://github.com/user-attachments/assets/838f6a2d-0144-431f-8f9f-595747679920" />
+
+<img width="1853" height="948" alt="Screenshot 2026-04-19 204537" src="https://github.com/user-attachments/assets/0000f03f-24a6-44cf-87c2-acba73eaf367" />
+
+<img width="1171" height="981" alt="Screenshot 2026-04-19 204858" src="https://github.com/user-attachments/assets/a8be1e21-9c5a-46da-bacc-0a7d7ede72fa" />
+
 # 🤖 Code Review AI Bot
 
 An AI-powered Telegram bot with a FastAPI web server that indexes GitHub repositories, analyzes code using neural networks, and answers questions about the codebase.
